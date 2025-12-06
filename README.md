@@ -26,19 +26,3 @@ A small full-stack project that lets users upload music files, generate mood-bas
 - Hosting: Vercel (frontend), Railway (backend & Postgres)
 
 ---
-
-## Repo structure
-
-music-mood-dj/
-├─ backend/
-│ ├─ src/
-│ │ ├─ routes/
-│ │ ├─ services/
-│ │ └─ app.js
-│ ├─ .env.example
-│ └─ package.json
-├─ frontend/
-│ └─ src/
-├─ infra/
-│ └─ create_tables.sql
-└─ README.md
